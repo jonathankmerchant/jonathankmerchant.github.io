@@ -1,2 +1,2 @@
-# metalmathmagician.github.io
-Personal Website
+# Jon Merchant
+Personal Website/Blog
